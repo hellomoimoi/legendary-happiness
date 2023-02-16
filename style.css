@@ -10,8 +10,8 @@ p {
   color: sienna;
 }
 
-.transparent {
+.hubbabubba {
   background:#7f7f7f;
   background:rgba(255,255,255,0.5);
-  width: 700px;
+  padding: 10px;
 }
