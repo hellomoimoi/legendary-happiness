@@ -26,8 +26,8 @@ p {
   z-index: 1;
   top: 0;
   left: 0;
-  background:#2F4F4F;
-  background: rgbav(47,79,79,0,3)
+  background-color:#2F4F4F;
+  background: rgba(47,79,79,0,3)
   overflow-x: hidden;
   padding-top: 20px;
 }
