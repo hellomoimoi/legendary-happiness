@@ -1,7 +1,5 @@
 body {
   color: sienna;
-  opacity: 0.1,
-  filter:alpha(opacity=10)
 }
 
 h1 {
@@ -12,6 +10,4 @@ p {
   color: sienna;
 }
 
-body{
 
-}
