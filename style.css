@@ -9,3 +9,9 @@ h1 {
 p {
   color: sienna;
 }
+
+.transparent {
+  background:#7f7f7f;
+  background:rgba(255,255,255,0.5);
+  width: 700px;
+}
