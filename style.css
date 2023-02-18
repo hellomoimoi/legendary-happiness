@@ -26,6 +26,7 @@ p {
 
 .topnav {
   background-color: teal;
+  vertical-align: middle;
   overflow: hidden;
   max-width: 650px;
 }
