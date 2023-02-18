@@ -79,8 +79,7 @@ p {
 }
 
 @media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
-  .hubbabubba {width: 100%}
-  .sidenav {width: 100%}
+  .topnav {padding-top: 15px;}
+  .topnav a {font-size: 18px;}
+
 }
