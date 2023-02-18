@@ -125,10 +125,10 @@ p {
     margin: 0 auto;
     margin-bottom: 25px;
     padding: 10px;
-    background: #fff;
+    background: light cyan;
     height: 300px;
     width: 530px;
-    border: 1px solid #a7a7a7;
+    border: 0px;
     overflow: auto;
     border-radius: 4px;
     border-bottom: 4px solid #a7a7a7;
@@ -193,7 +193,7 @@ p {
   
   .msgln b.user-name, .msgln b.user-name-left {
     font-weight: bold;
-    background: #546e7a;
+    background: teal;
     color: white;
     padding: 2px 4px;
     font-size: 90%;
@@ -202,5 +202,5 @@ p {
   }
   
   .msgln b.user-name-left {
-    background: orangered;
+    background: teal;
   }
