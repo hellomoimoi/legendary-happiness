@@ -22,6 +22,31 @@ p {
   max-width: 650px;
 }
 
+.topnav {
+  background-color: #000000;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  fint-family: Verdana;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
 .sidenav {
   height: 100%;
   width: 160px;
