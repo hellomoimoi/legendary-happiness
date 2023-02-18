@@ -19,7 +19,7 @@ p {
   padding-top: 20px;
   padding-bottom: 100px;
   padding-right: 20px;
-  width: 650px;
+  max-width: 650px;
 }
 
 .sidenav {
@@ -53,4 +53,9 @@ p {
   padding: 0px 10px;
 }
 
-
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+  .hubbabubba {width: 100%}
+  .sidenav {width: 100%}
+}
