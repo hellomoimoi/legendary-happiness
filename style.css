@@ -25,10 +25,10 @@ p {
 }
 
 .topnav {
-  background-color: teal;
+  background-color: #000000;
   vertical-align: middle;
   overflow: hidden;
-  max-width: 650px;
+  max-width: 690px;
 }
 
 .topnav a {
