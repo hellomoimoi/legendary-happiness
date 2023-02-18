@@ -2,6 +2,7 @@ body {
   background-image: url('kuva139.jpg');
   background-repeat: no-repeat;
   color: teal;
+  vertical-align: middle;
 }
 
 h1 {
