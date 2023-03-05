@@ -3,18 +3,22 @@ body {
   background-repeat: repeat;
   background-color: light cyan;
   color: black;
+  font-family: Verdana;
 }
 
 h1 {
   color: black;
+  font-family: Verdana;
 }
 
 h2 {
   color: black;
+  font-family: Verdana;
 }
 
 p {
   color: black;
+  font-family: Verdana;
 }
 
 .hubbabubba {
@@ -32,7 +36,7 @@ p {
   background-color: #000000;
   color: #000000;
   font-size: 60px;
-  font-family: Arial black;
+  font-family: Verdana;
   margin: auto;
   overflow: hidden;
   max-width: 690px;
@@ -45,7 +49,7 @@ p {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  fint-family: Arial black;
+  fint-family: Verdana;
 }
 
 .topnav a:hover {
