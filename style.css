@@ -2,9 +2,14 @@ body {
   background-image: url('kuva139.jpg');
   background-repeat: repeat;
   background-color: light cyan;
+  color: black;
 }
 
 h1 {
+  color: teal;
+}
+
+h2 {
   color: teal;
 }
 
