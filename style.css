@@ -26,6 +26,9 @@ p {
 
 .topnav {
   background-color: #000000;
+  color: #000000;
+  font-size: 60px;
+  font-family: Arial black;
   margin: auto;
   overflow: hidden;
   max-width: 690px;
