@@ -29,7 +29,7 @@ p {
   color: #000000;
   font-size: 60px;
   font-family: Arial black;
-  margin: auto;
+  margin: 5px;
   overflow: hidden;
   max-width: 690px;
 }
