@@ -2,7 +2,6 @@ body {
   background-image: url('kuva139.jpg');
   background-repeat: repeat;
   background-color: light cyan;
-  color: teal;
 }
 
 h1 {
@@ -41,7 +40,7 @@ p {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  fint-family: Verdana;
+  fint-family: Arial black;
 }
 
 .topnav a:hover {
