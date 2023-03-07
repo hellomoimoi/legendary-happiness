@@ -50,6 +50,7 @@ p {
   padding: 14px 16px;
   font-size: 35px;
   fint-family: Arial, Verdana, Sans-Serif;
+  max-width: 690px;
 }
 
 .topnav a {
