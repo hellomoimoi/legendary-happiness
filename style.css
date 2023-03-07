@@ -75,6 +75,7 @@ p {
   width: 20%;
   background:rgba(255,255,255,0.5);
   color: #ffffff;
+  box-sizing: border-box;
 }
 
 @media screen and (max-height: 450px) {
