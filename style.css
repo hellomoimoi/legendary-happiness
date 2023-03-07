@@ -69,6 +69,13 @@ p {
   padding: 0px 10px;
 }
 
+.sidehustle {
+  float: right;
+  width: 20%;
+  background-color: #000000;
+  color: #ffffff;
+}
+
 @media screen and (max-height: 450px) {
   .topnav {padding-top: 15px;}
   .topnav a {font-size: 18px;}
