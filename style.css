@@ -68,24 +68,10 @@ p {
   padding: 0px 10px;
 }
 
-.sidehustle {
-  float: right;
-  position: fixed;
-  top:0;
-  right:0;
-  width: 20%;
-  height: 100%;
-  z-index: 1;
-  background:rgba(255,255,255,0.5);
-  color: #ffffff;
-  box-sizing: border-box;
-  overflow-x: hidden;
-  padding-top: 15px;
-}
+
 
 @media screen and (max-height: 450px) {
   .topnav {padding-top: 15px;}
   .topnav a {font-size: 18px;}
-  .sidehustle {display:none;}
 
 }
