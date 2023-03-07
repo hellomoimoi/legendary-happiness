@@ -70,6 +70,7 @@ p {
 
 .sidehustle {
   float: right;
+  position: absolute;
   width: 20%;
   background-color: #000000;
   color: #ffffff;
