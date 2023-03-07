@@ -43,6 +43,15 @@ p {
   max-width: 690px;
 }
 
+.topnav p {
+  float: left;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 14px 16px;
+  font-size: 35px;
+  fint-family: Arial, Verdana, Sans-Serif;
+}
+
 .topnav a {
   float: left;
   color: #f2f2f2;
