@@ -39,7 +39,6 @@ p {
   font-size: 35px;
   font-family: Arial, Verdana, Sans-Serif;
   margin: auto;
-  position: fixed;
   overflow: hidden;
   max-width: 690px;
 }
