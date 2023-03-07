@@ -3,22 +3,22 @@ body {
   background-repeat: repeat;
   background-color: light cyan;
   color: black;
-  font-family: Verdana;
+  font-family: Arial, Verdana, Sans-Serif;
 }
 
 h1 {
   color: black;
-  font-family: Verdana;
+  font-family: Arial, Verdana, Sans-Serif;
 }
 
 h2 {
   color: black;
-  font-family: Verdana;
+  font-family: Arial, Verdana, Sans-Serif;
 }
 
 p {
   color: black;
-  font-family: Verdana;
+  font-family: Arial, Verdana, Sans-Serif;
 }
 
 .hubbabubba {
@@ -36,7 +36,7 @@ p {
   background-color: #000000;
   color: #ffffff;
   font-size: 35px;
-  font-family: Verdana;
+  font-family: Arial, Verdana, Sans-Serif;
   margin: auto;
   overflow: hidden;
   max-width: 690px;
@@ -49,7 +49,7 @@ p {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  fint-family: Verdana;
+  fint-family: Arial, Verdana, Sans-Serif;
 }
 
 .topnav a:hover {
