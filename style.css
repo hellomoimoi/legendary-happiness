@@ -2,13 +2,14 @@ body {
   background-image: url('kuva139.jpg');
   background-repeat: repeat;
   background-color: light cyan;
-  color: black;
+  color: gray;
   font-family: Arial, Verdana, Sans-Serif;
 }
 
 h1 {
   color: black;
   font-family: Arial, Verdana, Sans-Serif;
+  font-size: 35px;
 }
 
 h2 {
@@ -17,8 +18,14 @@ h2 {
 }
 
 p {
-  color: black;
+  color: dark blue;
   font-family: Arial, Verdana, Sans-Serif;
+  font-size: 16px;
+  background-color: lavender;
+}
+
+ol {
+  list-style-type: lower-alpha;
 }
 
 .hubbabubba {
