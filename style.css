@@ -28,6 +28,7 @@ p.topnav {
   color: white;
   font-family: Arial, Verdana, Sans-Serif;
   font-size: 35px;
+  background-image: url('wood.jpg');
 }
 
 ol {
