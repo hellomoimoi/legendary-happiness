@@ -24,6 +24,12 @@ p {
   background-color: lavender;
 }
 
+p.topnav {
+  color: white;
+  font-family: Arial, Verdana, Sans-Serif;
+  font-size: 35px;
+}
+
 ol {
   list-style-type: lower-alpha;
 }
