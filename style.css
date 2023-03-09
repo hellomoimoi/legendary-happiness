@@ -47,6 +47,11 @@ ul {
   
 }
 
+.firstdiv {
+  background-image: url('wood.jpg');
+  opacity: 0,5;
+}
+
 .hubbabubba {
   background:#7f7f7f;
   background:rgba(255,255,255,0.5);
