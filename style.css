@@ -10,11 +10,13 @@ h1 {
   color: black;
   font-family: Arial, Verdana, Sans-Serif;
   font-size: 35px;
+  border: 5px solid white;
 }
 
 h2 {
   color: black;
   font-family: Arial, Verdana, Sans-Serif;
+  border: 5px solid white;
 }
 
 p {
