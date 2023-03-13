@@ -10,7 +10,7 @@ h1 {
   color: black;
   font-family: Arial, Verdana, Sans-Serif;
   font-size: 35px;
-  border: 5px solid red;
+  border: 5px solid teal;
 }
 
 h1.topnav {
@@ -25,7 +25,7 @@ h1.topnav {
 h2 {
   color: black;
   font-family: Arial, Verdana, Sans-Serif;
-  border: 5px solid red;
+  border: 5px solid teal;
 }
 
 p {
@@ -127,7 +127,7 @@ ul {
   font-family: Arial, Verdana, Sans-Serif;
   
   border-radius: 25px;
-  background-color: red;
+  background-color: teal;
 }
 
 .topnav a:hover {
@@ -135,7 +135,7 @@ ul {
   color: black;
   
   border-radius: 25px;
-  background-color: red;
+  background-color: teal;
 }
 
 .topnav a.active {
@@ -143,7 +143,7 @@ ul {
   color: white;
   
   border-radius: 25px;
-  background-color: red;
+  background-color: teal;
 }
 
 .main {
