@@ -46,7 +46,7 @@ aside
 {
   float: right;
   background-color: white;
-  width: 250px;
+  width: 20%;
   height: 100%;
 }
 
@@ -56,7 +56,7 @@ article {
 
 section {
     max-width: auto; 
-    padding-right: 270px;
+    padding-right: 20%;
 }
 
 nav {
