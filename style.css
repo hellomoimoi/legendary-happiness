@@ -62,6 +62,18 @@ section {
     width: 560px; 
 }
 
+nav {
+    float: right;
+    padding: 0 20px 40px;
+    width: 850px; 
+}
+
+header {
+    float: right;
+    padding: 0 20px 40px;
+    width: 850px; 
+}
+
 ol {
   list-style-type: lower-alpha;
 }
