@@ -67,10 +67,6 @@ ul {
   
 }
 
-.firstdiv {
-  background-image: url('concrete.jpeg');
-}
-
 .hubbabubba {
   background:#7f7f7f;
   background:rgba(255,255,255,0.5);
@@ -78,7 +74,7 @@ ul {
   padding-top: 20px;
   padding-bottom: 100px;
   padding-right: 20px;
-  max-width: 650px;
+  width: auto;
   margin: auto;
   font-size: 15px;
 }
@@ -90,7 +86,7 @@ ul {
   font-family: Arial, Verdana, Sans-Serif;
   margin: auto;
   overflow: hidden;
-  max-width: 940px;
+  width: auto;
 }
 
 .topnav a {
