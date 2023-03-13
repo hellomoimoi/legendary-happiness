@@ -13,6 +13,14 @@ h1 {
   border: 5px solid red;
 }
 
+h1.topnav {
+  color: white;
+  font-family: Arial, Verdana, Sans-Serif;
+  font-size: 35px;
+  background-image: url('wood.jpg');
+}  
+  
+
 h2 {
   color: black;
   font-family: Arial, Verdana, Sans-Serif;
