@@ -51,7 +51,13 @@ aside
 }
 
 article {
-    float: left;
+    float: right;
+    padding: 0 20px 40px;
+    width: 560px; 
+}
+
+section {
+    float: right;
     padding: 0 20px 40px;
     width: 560px; 
 }
