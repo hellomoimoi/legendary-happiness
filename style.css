@@ -50,19 +50,6 @@ aside
   height: 100%;
 }
 
-aside.div
-{
-  color: white;
-}
-aside.ul
-{
-  color: white;
-}
-aside.ol
-{
-  color: white;
-}
-
 article {
     max-width: auto;
 }
