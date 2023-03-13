@@ -63,11 +63,13 @@ nav {
 }
 
 header {
+    top: 0;
     width: auto; 
     background-color: black;
 }
 
 footer {
+    bottom: 0;
     width: auto;
     background-color: white;
 }
