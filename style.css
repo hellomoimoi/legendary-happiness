@@ -46,8 +46,8 @@ aside
 {
   float: right;
   background:rgba(255,255,255,0.5);
-  width: 20em;
-  padding: 1em;
+  width: 250px;
+  padding: none;
 }
 
 ol {
@@ -90,7 +90,7 @@ ul {
   font-family: Arial, Verdana, Sans-Serif;
   margin: auto;
   overflow: hidden;
-  max-width: 690px;
+  max-width: 940px;
 }
 
 .topnav a {
