@@ -51,28 +51,23 @@ aside
 }
 
 article {
-    float: left;
     max-width: 700px; 
 }
 
 section {
-    float: left;
     max-width: 700px; 
 }
 
 nav {
-    float: left;
     width: auto; 
 }
 
 header {
-    float: left;
     width: auto; 
     background-color: black;
 }
 
 footer {
-    float: left;
     width: auto;
     background-color: white;
 }
