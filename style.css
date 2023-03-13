@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-  color: black;
+  color: white;
   font-family: Arial, Verdana, Sans-Serif;
   font-size: 35px;
   border: 5px solid teal;
@@ -23,7 +23,7 @@ h1.topnav {
   
 
 h2 {
-  color: teal;
+  color: white;
   font-family: Arial, Verdana, Sans-Serif;
   border: 5px solid teal;
 }
@@ -111,7 +111,7 @@ ul {
 
 .hubbabubba {
   background:#7f7f7f;
-  background:rgba(255,255,255,0.5);
+  background: rgba(0, 0, 0, 0.5);
   padding-left: 20px;
   padding-top: 20px;
   padding-bottom: 100px;
