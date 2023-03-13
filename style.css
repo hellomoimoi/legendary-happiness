@@ -42,6 +42,14 @@ p.topnav {
   background-image: url('wood.jpg');
 }
 
+aside
+{
+  float: right;
+  background:rgba(255,255,255,0.5);
+  width: 20em;
+  padding: 1em;
+}
+
 ol {
   list-style-type: lower-alpha;
 }
