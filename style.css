@@ -51,11 +51,11 @@ aside
 }
 
 article {
-    max-width: auto;
+   width: auto;
 }
 
 section {
-    max-width: auto; 
+    width: auto; 
     padding-right: 20%;
 }
 
