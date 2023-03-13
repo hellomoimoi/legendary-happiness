@@ -47,7 +47,7 @@ aside
   float: right;
   background-color: white;
   width: 250px;
-  padding: none;
+  padding-right:250px;
 }
 
 article {
