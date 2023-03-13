@@ -45,9 +45,22 @@ p.topnav {
 aside
 {
   float: right;
-  background-color: white;
+  background: linear-gradient(109.6deg, rgb(0, 0, 0) 11.2%, rgb(11, 132, 145) 91.1%);
   width: 20%;
   height: 100%;
+}
+
+aside.div
+{
+  color: white;
+}
+aside.ul
+{
+  color: white;
+}
+aside.ol
+{
+  color: white;
 }
 
 article {
