@@ -72,6 +72,14 @@ header {
     float: right;
     padding: 0 20px 40px;
     width: 850px; 
+    background-color: black;
+}
+
+footer {
+    float: right;
+    padding: 0 20px 40px;
+    width: 850px; 
+    background-color: white;
 }
 
 ol {
