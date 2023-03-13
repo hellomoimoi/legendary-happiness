@@ -52,32 +52,27 @@ aside
 
 article {
     float: right;
-    padding: 0 20px 40px;
     max-width: 700px; 
 }
 
 section {
     float: left;
-    padding: 0 20px 40px;
     max-width: 700px; 
 }
 
 nav {
     float: right;
-    padding: 0 20px 40px;
     width: auto; 
 }
 
 header {
     float: right;
-    padding: 0 20px 40px;
     width: auto; 
     background-color: black;
 }
 
 footer {
     float: right;
-    padding: 0 20px 40px;
     width: auto;
     background-color: white;
 }
