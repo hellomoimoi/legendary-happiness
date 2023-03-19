@@ -34,6 +34,7 @@ aside
   background-color: white;
   width: 20%;
   height: 100%;
+  margin: 20px;
 }
 
 article {
@@ -98,7 +99,6 @@ background-color: #D3D3D3;
 
 .sidenav {
 background-color: #D3D3D3;
-margin: 20px;
 }
 
 .hubbabubba {
