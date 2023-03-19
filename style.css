@@ -58,6 +58,11 @@ header {
     background-color: white;
 }
 
+main {
+    width: auto;
+    background-color: white;
+}
+
 footer {
     bottom: 0;
     width: auto;
