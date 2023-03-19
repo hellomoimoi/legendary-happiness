@@ -87,6 +87,11 @@ ul {
   background-color: #D3D3D3;
 }
 
+a {
+  color: orange;
+  text-decoration: none;
+}
+
 .b1 {
   list-style-image: url(ratas3.png);
   
