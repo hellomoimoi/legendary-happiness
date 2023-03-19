@@ -93,7 +93,13 @@ ul {
 background-color: white;
 }
 
-.sidecolumn {
+.sidecolumnl {
+float: left;
+background-color: #D3D3D3;
+}
+
+.sidecolumnr {
+float: right;
 background-color: #D3D3D3;
 }
 
