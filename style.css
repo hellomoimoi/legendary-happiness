@@ -108,11 +108,19 @@ ul {
   max-height: 200px;
   max-width: 200px;
   background-color: white;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  padding-right: 20px;
   
 }
 
 .contactpart {
   background-color: white;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 100px;
+  padding-right: 20px;
 }
 
 .column {
