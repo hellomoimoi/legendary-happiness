@@ -95,13 +95,13 @@ background-color: white;
 
 .sidecolumnl {
 float: left;
-width: 50px;
+width: 100px;
 background-color: #D3D3D3;
 }
 
 .sidecolumnr {
 float: right;
-margin-left: 60px;
+margin-left: 110px;
 background-color: #D3D3D3;
 }
 
