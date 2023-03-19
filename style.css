@@ -28,6 +28,10 @@ p.topnav {
   font-size: 35px;
 }
 
+progress {
+  color: orange;
+}
+
 aside
 {
   float: right;
