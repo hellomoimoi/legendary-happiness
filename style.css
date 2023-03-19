@@ -39,6 +39,10 @@ aside
 article {
    width: auto;
    background-color: white;
+   padding-left: 20px;
+   padding-top: 20px;
+   padding-bottom: 50px;
+   padding-right: 20px;
 }
 
 section {
