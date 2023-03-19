@@ -8,16 +8,7 @@ h1 {
   color: #404040;
   font-family: Arial, Verdana, Sans-Serif;
   font-size: 35px;
-  border: 5px solid teal;
 }
-
-h1.topnav {
-  color: #404040;
-  font-family: Arial, Verdana, Sans-Serif;
-  font-size: 35px;
-  border: none;
-}  
-  
 
 h2 {
   color: #404040;
@@ -28,14 +19,12 @@ p {
   color: #404040;
   font-family: Arial, Verdana, Sans-Serif;
   font-size: 16px;
-  background-color: lavender;
 }
 
 p.topnav {
   color: #404040;
   font-family: Arial, Verdana, Sans-Serif;
   font-size: 35px;
-  background-image: url('wood.jpg');
 }
 
 aside
