@@ -97,16 +97,6 @@ a {
   
 }
 
-.b2 {
-
-  
-}
-
-.b3 {
-
-  
-}
-
 .profile-image {
   max-height: 200px;
   max-width: 200px;
@@ -134,12 +124,14 @@ background-color: white;
 float: left;
 width: 40%;
 background-color: #D3D3D3;
+padding-bottom: 50px;
 }
 
 .sidecolumnr {
 float: right;
 width: 60%;
 background-color: #D3D3D3;
+padding-bottom: 50px;
 }
 
 
