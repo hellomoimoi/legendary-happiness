@@ -32,7 +32,7 @@ p.topnav {
 aside
 {
   float: right;
-  background-color: #D3D3D3;
+  background-color: white;
   width: 20%;
   height: 100%;
 }
@@ -77,6 +77,7 @@ ol {
 ul {
   list-style-type: square;
   color: #696969;
+  background-color: #D3D3D3;
 }
 
 .profile-image {
@@ -84,7 +85,12 @@ ul {
   border-width: 2px;
   max-height: 200px;
   max-width: 200px;
+  background-color: white;
   
+}
+
+.sidenav {
+background-color: #D3D3D3;
 }
 
 .hubbabubba {
