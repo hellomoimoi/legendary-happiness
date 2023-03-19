@@ -14,7 +14,6 @@ h1.topnav {
   color: #404040;
   font-family: Arial, Verdana, Sans-Serif;
   font-size: 35px;
-  background-image: url('wood.jpg');
   border: none;
 }  
   
@@ -22,7 +21,6 @@ h1.topnav {
 h2 {
   color: #404040;
   font-family: Arial, Verdana, Sans-Serif;
-  border: 5px solid teal;
 }
 
 p {
