@@ -108,13 +108,13 @@ background-color: white;
 
 .sidecolumnl {
 float: left;
-width: 100px;
+width: 30%;
 background-color: #D3D3D3;
 }
 
 .sidecolumnr {
 float: right;
-margin-left: 170px;
+width: 60%;
 background-color: #D3D3D3;
 }
 
