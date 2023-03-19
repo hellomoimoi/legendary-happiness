@@ -1,8 +1,5 @@
 body {
-  background-image: url('kuva139.jpg');
-  background-repeat: repeat;
-  background-color: ivory;
-  color: #5A5A5A;
+  background-color: #404040;
   font-family: Arial, Verdana, Sans-Serif;
 }
 
@@ -45,34 +42,37 @@ p.topnav {
 aside
 {
   float: right;
-  background: linear-gradient(109.6deg, rgb(0, 0, 0) 11.2%, rgb(11, 132, 145) 91.1%);
+  background-color: white;
   width: 20%;
   height: 100%;
 }
 
 article {
    width: auto;
+   background-color: white;
 }
 
 section {
     width: auto; 
     padding-right: 20%;
+    background-color: white;
 }
 
 nav {
     width: auto; 
+    background-color: white;
 }
 
 header {
     top: 0;
     width: auto; 
-    background-color: black;
+    background-color: white;
 }
 
 footer {
     bottom: 0;
     width: auto;
-    background-color: black;
+    background-color: white;
 }
 
 footer a {
