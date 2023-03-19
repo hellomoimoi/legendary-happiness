@@ -75,9 +75,9 @@ ol {
 }
 
 ul {
-  list-style-type: square;
   color: #696969;
   background-color: #D3D3D3;
+  list-style-image: url(ratas.png);
 }
 
 .profile-image {
