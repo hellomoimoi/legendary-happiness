@@ -103,8 +103,6 @@ ul {
 }
 
 .profile-image {
-  border-style: dotted;
-  border-width: 2px;
   max-height: 200px;
   max-width: 200px;
   background-color: white;
