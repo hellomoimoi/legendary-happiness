@@ -232,11 +232,11 @@ padding-right: 20px;
   flex-flow: row wrap ;
 }
 #navbar {
-  order: 1 ;
+  order: 2 ;
   width: 20%;
 }
 #content {
-  order: 2 ;
+  order: 1 ;
   width: 80% ;
   }
 }
