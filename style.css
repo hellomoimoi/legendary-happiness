@@ -228,7 +228,6 @@ padding-right: 20px;
 @media all and (min-width: 630px) {
 #container {
   display: flex ;
-  align-items: stretch ;
   flex-flow: row wrap ;
 }
 #navbar {
@@ -256,15 +255,3 @@ padding-right: 20px;
   }
 }
 
-
-  .inspo img{
-    opacity: 0.5;
-    filter: alpha(opacity=40);
-    width: 100%;
-}
-    
-  .inspo img:hover {
-    opacity: 1.0;
-    filter: alpha(opacity=100);
-    width: 100%;
-}
