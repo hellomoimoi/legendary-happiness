@@ -168,6 +168,15 @@ padding-right: 20px;
   font-size: 15px;
 }
 
+.header {
+  color: #404040;
+  font-size: 35px;
+  font-family: Arial, Verdana, Sans-Serif;
+  margin: auto;
+  overflow: hidden;
+  width: auto;
+}
+
 .topnav {
   background-color: rgba(0, 0, 0, 0.8);
   color: #404040;
