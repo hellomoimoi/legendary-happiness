@@ -35,14 +35,13 @@ progress {
 aside
 {
   float: right;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
   width: 25%;
   height: 100%;
 }
 
 article {
    width: auto;
-   background-color: rgba(0, 0, 0, 0.5);
    padding-left: 20px;
    padding-top: 20px;
    padding-bottom: 100px;
@@ -52,29 +51,28 @@ article {
 section {
     width: auto; 
     padding-right: 20%;
-    background-color: rgba(0, 0, 0, 0.5);
 }
 
 nav {
     width: auto; 
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
 header {
     top: 0;
     width: auto; 
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
 main {
     width: auto;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
 footer {
     bottom: 0;
     width: auto;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.8);
 }
 
 footer a {
@@ -104,7 +102,6 @@ a {
 .profile-image {
   max-height: 200px;
   max-width: 200px;
-  background-color: rgba(0, 0, 0, 0.5);
   padding-left: 20px;
   padding-top: 20px;
   padding-bottom: 50px;
@@ -113,7 +110,7 @@ a {
 }
 
 .contactpart {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
   padding-left: 20px;
   padding-top: 20px;
   padding-bottom: 100px;
@@ -121,20 +118,20 @@ a {
 }
 
 .column {
-background-color: rgba(0, 0, 0, 0.5);
+background-color: rgba(0, 0, 0, 0.8);
 }
 
 .sidecolumnl {
 float: left;
 width: 40%;
-background-color: #D3D3D3;
+
 
 }
 
 .sidecolumnr {
 float: right;
 width: 60%;
-background-color: #D3D3D3;
+
 
 }
 
@@ -142,7 +139,6 @@ background-color: #D3D3D3;
 .columnl {
 float: left;
 width: 10%;
-background-color: rgba(0, 0, 0, 0.5);
 padding-top: 20px;
 padding-bottom: 50px;
 }
@@ -150,7 +146,6 @@ padding-bottom: 50px;
 .columnr {
 float: right;
 width: 80%;
-background-color: rgba(0, 0, 0, 0.5);
 padding-top: 20px;
 padding-bottom: 50px;
 }
@@ -166,7 +161,6 @@ padding-right: 20px;
 }
 
 .hubbabubba {
-  background-color: rgba(0, 0, 0, 0.5;
   padding-left: 20px;
   padding-top: 20px;
   padding-bottom: 50px;
@@ -177,7 +171,7 @@ padding-right: 20px;
 }
 
 .topnav {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
   color: #404040;
   font-size: 35px;
   font-family: Arial, Verdana, Sans-Serif;
@@ -195,7 +189,7 @@ padding-right: 20px;
   font-size: 17px;
   font-family: Arial, Verdana, Sans-Serif;
   border-radius: 25px;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
   color: orange;
 }
 
@@ -203,7 +197,7 @@ padding-right: 20px;
   background-color: #ddd;
   color: #404040;
   border-radius: 25px;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 .topnav a.active {
