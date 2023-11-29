@@ -18,7 +18,7 @@ h2 {
 }
 
 p {
-  color: #696969;
+  color: #ffffff;
   font-family: Arial, Verdana, Sans-Serif;
 }
 
@@ -81,11 +81,11 @@ footer a {
 
 ol {
   list-style-type: lower-alpha;
-  color: #696969;
+  color: #ffffff;
 }
 
 ul {
-  color: #696969;
+  color: #ffffff;
   background-color: #D3D3D3;
 }
 
@@ -161,7 +161,6 @@ padding-right: 20px;
 }
 
 .hubbabubba {
-  background-color: rgba(0, 0, 0, 0.8);
   padding-left: 20px;
   padding-top: 20px;
   padding-bottom: 50px;
@@ -211,6 +210,7 @@ padding-right: 20px;
 .main {
   margin-left: 160px;
   padding: 0px 10px;
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 .contact {
