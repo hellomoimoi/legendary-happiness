@@ -225,15 +225,17 @@ padding-right: 20px;
   padding-bottom: 100px;
   padding-right: 20px;
 }
-
+@media all and (min-width: 630px) {
 #container {
   display: flex ;
   align-items: stretch ;
   flex-flow: row wrap ;
 }
-
-@media screen and (max-height: 450px) {
-  .topnav {padding-top: 15px;}
-  .topnav a {font-size: 18px;}
-
+}
+@media all and (max-width: 629px) {
+  #container {
+    display: flex ;
+    align-items: stretch ;
+    flex-flow: column wrap ;
+  }
 }
