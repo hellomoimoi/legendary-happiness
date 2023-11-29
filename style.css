@@ -231,11 +231,27 @@ padding-right: 20px;
   align-items: stretch ;
   flex-flow: row wrap ;
 }
+#navbar {
+  order: 1 ;
+  width: 20%;
+}
+#content {
+  order: 2 ;
+  width: 80% ;
+  }
 }
 @media all and (max-width: 629px) {
   #container {
     display: flex ;
     align-items: stretch ;
     flex-flow: column wrap ;
+  }
+  #navbar {
+    order: 2 ;
+    width: 100%;
+  }
+  #content {
+    order: 1 ;
+    width: 100% ;
   }
 }
