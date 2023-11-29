@@ -237,5 +237,8 @@ padding-right: 20px;
     order: 1 ;
     width: 100% ;
   }
+  img {
+    width: 100%;
+  }
 }
 
