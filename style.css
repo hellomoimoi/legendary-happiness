@@ -23,7 +23,7 @@ p {
 }
 
 p.topnav {
-  color: #696969;
+  color: #ffffff;
   font-family: Arial, Verdana, Sans-Serif;
   font-size: 35px;
 }
@@ -187,7 +187,6 @@ padding-right: 20px;
   font-size: 17px;
   font-family: Arial, Verdana, Sans-Serif;
   border-radius: 25px;
-  background-color: rgba(0, 0, 0, 0.8);
   color: orange;
 }
 
@@ -195,14 +194,13 @@ padding-right: 20px;
   background-color: #ddd;
   color: #404040;
   border-radius: 25px;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 .topnav a.active {
-  background-color: #04AA6D;
   color: #404040;
   border-radius: 25px;
-  background-color: #DCDCDC;
+
 }
 
 .main {
