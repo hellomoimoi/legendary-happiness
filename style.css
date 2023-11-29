@@ -227,8 +227,7 @@ padding-right: 20px;
 }
 @media all and (min-width: 630px) {
 #container {
-  display: flex ;
-  flex-flow: row wrap ;
+
 }
 #navbar {
   order: 2 ;
