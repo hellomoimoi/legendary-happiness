@@ -61,6 +61,7 @@ header {
     top: 0;
     width: auto; 
     background-color: rgba(0, 0, 0, 0.8);
+    background-image: url("wood.jpg");
 }
 
 main {
