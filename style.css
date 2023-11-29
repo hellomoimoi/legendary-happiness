@@ -35,14 +35,14 @@ progress {
 aside
 {
   float: right;
-  background-color: rgba(255, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5);
   width: 25%;
   height: 100%;
 }
 
 article {
    width: auto;
-   background-color: rgba(255, 0, 0, 0.4);
+   background-color: rgba(0, 0, 0, 0.5);
    padding-left: 20px;
    padding-top: 20px;
    padding-bottom: 100px;
@@ -52,29 +52,29 @@ article {
 section {
     width: auto; 
     padding-right: 20%;
-    background-color: rgba(255, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 nav {
     width: auto; 
-    background-color: rgba(255, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 header {
     top: 0;
     width: auto; 
-    background-color: rgba(255, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 main {
     width: auto;
-    background-color: rgba(255, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 footer {
     bottom: 0;
     width: auto;
-    background-color: rgba(255, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 footer a {
@@ -104,7 +104,7 @@ a {
 .profile-image {
   max-height: 200px;
   max-width: 200px;
-  background-color: rgba(255, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5);
   padding-left: 20px;
   padding-top: 20px;
   padding-bottom: 50px;
@@ -113,7 +113,7 @@ a {
 }
 
 .contactpart {
-  background-color: rgba(255, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5);
   padding-left: 20px;
   padding-top: 20px;
   padding-bottom: 100px;
@@ -121,7 +121,7 @@ a {
 }
 
 .column {
-background-color: rgba(255, 0, 0, 0.4);
+background-color: rgba(0, 0, 0, 0.5);
 }
 
 .sidecolumnl {
@@ -142,7 +142,7 @@ background-color: #D3D3D3;
 .columnl {
 float: left;
 width: 10%;
-background-color: rgba(255, 0, 0, 0.4);
+background-color: rgba(0, 0, 0, 0.5);
 padding-top: 20px;
 padding-bottom: 50px;
 }
@@ -150,7 +150,7 @@ padding-bottom: 50px;
 .columnr {
 float: right;
 width: 80%;
-background-color: rgba(255, 0, 0, 0.4);
+background-color: rgba(0, 0, 0, 0.5);
 padding-top: 20px;
 padding-bottom: 50px;
 }
@@ -166,7 +166,7 @@ padding-right: 20px;
 }
 
 .hubbabubba {
-  background-color: rgba(255, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5;
   padding-left: 20px;
   padding-top: 20px;
   padding-bottom: 50px;
@@ -177,7 +177,7 @@ padding-right: 20px;
 }
 
 .topnav {
-  background-color: rgba(255, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5);
   color: #404040;
   font-size: 35px;
   font-family: Arial, Verdana, Sans-Serif;
@@ -195,7 +195,7 @@ padding-right: 20px;
   font-size: 17px;
   font-family: Arial, Verdana, Sans-Serif;
   border-radius: 25px;
-  background-color: rgba(255, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5);
   color: orange;
 }
 
@@ -203,7 +203,7 @@ padding-right: 20px;
   background-color: #ddd;
   color: #404040;
   border-radius: 25px;
-  background-color: rgba(255, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .topnav a.active {
